@@ -1,0 +1,26 @@
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+}
+.failure-heading {
+  font-family: fantasy;
+  font-size: 24px;
+}
+.button-style {
+  border-radius: 8px;
+  border: 2px solid #000000;
+  padding-left: 15px;
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  font-size: 19px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.failure-style {
+  width: 40%;
+}

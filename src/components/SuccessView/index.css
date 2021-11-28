@@ -1,0 +1,7 @@
+.list-container {
+  width: 100%;
+  display: flex;
+}
+.search-style {
+  width: 80%;
+}
